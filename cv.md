@@ -19,7 +19,7 @@
 ##### <a name="Lists">+ Кыргызский</a>
 ##### <a name="Lists">+ Английский</a>
 ##### <a name="Lists">+ Турецкий</a>
-##НАВЫКИ
+## НАВЫКИ
 ##### <a name="Lists">+ Продвинутый пользователь ПК</a>
 ##### <a name="Lists">+ Adobe Premiere Pro</a>
 ##### <a name="Lists">+ Фото/Видеосъемка</a>
